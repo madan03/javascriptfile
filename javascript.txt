@@ -1,0 +1,91 @@
+HTML(content part)
+CSS(Design part)
+JAVASCRPTI(logical part)
+
+1. Difference Between JAVA and JAVASCRPTI??
+Java:
+    OOP programming language, Creates appln that are run in a vm or browser ,need to be complied.
+Javascript:
+    OOP scripting language, code is run on a browser only, code is all in the form of text.
+
+2.What are the features of Javascript??
+    ->It is lightweight,interpreted programming language.
+    ->It is designed for creating networkcentric appln.
+    ->It is an open and cross-platform scripting language.
+
+3.Advantage of Javascript
+    ->Less server interaction:less load on server
+    ->Immediate feedback to the visitors
+    ->Increase interactivity.
+
+4.In how many ways a Javascript code can be involves in an HTML file?
+    ->Inline
+    ->Internal
+    ->External
+
+
+
+5.Difference Between null and undefined???
+
+    ->.null:Assignment value,representaion of no value
+    ->.undefined:variable has been decleared but has not yet been assigned value.
+
+*Install vscode(IDE)
+ DataTypes:
+ 1.Number
+ 2.String
+ 3.Object
+ 4.null
+ 5.undefined
+ 
+ At a very high level, There are two types of data types in Javascript
+ 1.Primitives data types: undefined, null, Number,String,symbol
+ 2.Reference data types: Object and Arrays
+
+ *Javascript Operators
+    1.Arithmetic Operators:
+        Add,multi,divi,sub( + , -, *, /)
+    2.Assignment operators:
+        ( +=, -=, *= ,/=)
+    3.Comparision Operator: 
+    (   x == y) , (x <= y), (x >=y) (x <y ), (x >y)
+    4.logical Operator:
+        4.1 AND Operator(&&)
+        4.2 OR Operator(||)
+        4.3 NOT operator(!)
+*JAVASCRPTI FUNCTION:
+    A JavaScript function is defined with the function keyword, followed by a name, 
+    followed by parentheses ().
+     function name(parameter1, parameter2, parameter3) {
+    // code to be executed
+    }
+*CONDITIONS OF JAVASCRPTI:
+1.if statement:
+2.if-else statement:
+3.if-else ladder:
+
+*LOOP IN JAVASCRPTI:
+1.FOR:
+    Loops through a block of code a number of times
+2.WHILE:
+    Loops through a block of code while a specified condition is true   
+3.DO-WHILE:
+    Also loops through a block of code while a specified condition is true
+
+*Break in javascript:
+    The break statement "jumps out" of a loop.
+*continue in javascript:
+    The continue statement "jumps over" one iteration in the loop.
+
+*Array Methods:
+        https://www.w3schools.com/js/js_array_methods.asp
+
+*String Methods:
+        https://www.w3schools.com/js/js_string_methods.asp
+
+
+
+
+
+
+
